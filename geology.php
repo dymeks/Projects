@@ -12,4 +12,8 @@
 	  <input type="text" name="mineralName">
 	  <input type="submit" name="mineralName">
 	</div>  
+<<<<<<< HEAD
 </body>
+=======
+</body>
+>>>>>>> 7aee88abaddf072a36096edafaf18d7fd8a2d066

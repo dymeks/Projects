@@ -1,0 +1,10 @@
+Chemical Formula: Al2SiO5 
+Harness: 4-7 
+Cleavage Planes: 2 {100} {010}
+Color(s): Blue, white, gray
+Fracture: Brittle
+Habit: Columnar, Fibrous
+Luster: Vitreous
+Streak: white
+Polymorphs: Andalucite,Sillimanite
+Crystal System: Triclinic- Pinacoidal

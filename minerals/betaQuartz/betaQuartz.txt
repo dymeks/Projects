@@ -1,0 +1,8 @@
+Chemical Formula: SiO2
+Hardness: 6.5-7.5
+Color(s): Colorless, purple, rose, green...
+Lustre: Vitreous
+Cleavage: {0001} {1010}
+Fracture: Conchoidal
+Polymorphs:Stishovite,Coesite,a-Quartz,b-Quartz,Tridymite,Cristobalite,
+Crystal System: Triclinic

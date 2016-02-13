@@ -1,0 +1,5 @@
+Rock Name: Sandstone
+Composition:
+Important Minerals:
+Color:
+Group: Sedimentary

@@ -1,0 +1,9 @@
+Chemical Formula: KAlSi3O8
+Crystal System: Monoclinic-Prismatic
+Cleavage: {001} {010}
+Color(s): Colorless, Greenish, Pink, white
+Fracture: Uneven
+Habit: Blocky, Massive, Prismatic
+Hardness: 6
+Luster: Vitreous
+Streak: white

@@ -1,0 +1,9 @@
+Chemical Formula: Al2SiO5
+Cleavage Planes: 1 {010}
+Hardness: 7
+Color(s): Blue, brownish green, colorless
+Habit: Acicular, Fibrous, Prismatic
+Fracture: Splintery
+Luster: Vitreous
+Streak: white
+Crystal System: Orthorhombic

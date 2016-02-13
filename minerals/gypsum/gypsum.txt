@@ -1,0 +1,9 @@
+Checmical Formula: CaSO4*2H2O
+Hardness: 2
+Cleavage: 3 planes {010} {100} {011}
+Color(s):White, colorlesss, brown
+Habit: Crystalline, Massive-fibrous, Tabular-form
+Luster: pearly
+Streak: white
+Fracture: fibrous
+Crystal Structure: Monoclinic- Prismatic

@@ -1,0 +1,9 @@
+Chemical Formula: SiO2
+Hardness: 7
+Color(s): Colorless, purple, rose, green...
+Lustre: Vitreous
+Streak: white
+Cleavage: NONE
+Fracture: Conchoidal
+Polymorphs:Quartz,Coesite,a-Quartz,b-Quartz,Tridymite,Cristobalite,
+Crystal System: Tetragonal

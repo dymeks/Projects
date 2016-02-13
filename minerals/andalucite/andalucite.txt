@@ -1,0 +1,10 @@
+Chemical Formula: Al2SiO5 
+Harness: 6.5-7.5
+Cleavage Planes: 2 {100} {010}
+Color(s): pink-red-brown
+Fracture: Brittle
+Habit: Columnar, Fibrous
+Luster: Vitreous
+Streak: white
+Polymorphs:Kyanite,Sillimanite
+Crystal System: Orthorhombic

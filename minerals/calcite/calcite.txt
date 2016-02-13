@@ -1,0 +1,9 @@
+Chemical Formula: CaCO3
+Hardness: 3
+Color: white, yellow, red
+Cleavage: 1 plane (0 0 1bar 1)
+Luster: Vitreous, Waxy
+Streak: white
+Fracture: conchoidal
+Polymorphs: Aragonite,Vaterite
+Crystal System: Trigonal
